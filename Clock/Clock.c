@@ -10,4 +10,6 @@ Clock* Clock_New()
 void Clock_Delete(Clock** this)
 {
     //Elimino un reloj 
+    //Esta linea es de prueba  
+    //jaja
 }
