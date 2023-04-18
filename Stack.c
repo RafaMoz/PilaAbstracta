@@ -5,6 +5,7 @@
 Stack* Stack_New()
 {
     //Operations
+    Stack* s = (Stack*)malloc(sizeof(Stack));
 }
 
 void Stack_Delete(Stack** this)
