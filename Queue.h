@@ -4,4 +4,5 @@ typedef struct{
   int number
 }Queue;
 
-
+Queue* Queue_New();
+void Queue_Delete();
